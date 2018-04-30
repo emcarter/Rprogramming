@@ -4,4 +4,12 @@ Some of my goals are related to answering questions I have:
   1. What defines a project in R?
   2. Can I work on more than one project in R at the same time?
   3. If I work on more than one project in R at the same time, what is the most effective way to manage files and branching?
-  4. 
+  4. If I install libraries from one File (.R file), do I still need to install them from another file?
+  5. How regularly do I need to install (or re-install) R packages?
+
+Some of my goals are related to running the R project for Exposure Response Analysis for China Energy Transitions:
+  1. What are the pathways through which I can open, run, and edit the project files?
+  2. Let's add the province categories--is this something I can do (with guidance)?
+  3. 
+
+
